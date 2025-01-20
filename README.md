@@ -1,6 +1,6 @@
 ## ASP.NET Request Processing Flow (.Net Framework)
 
- Client Request
+ `Client Request
       ↓
  IIS (Handler Mapping)
       ↓
@@ -27,4 +27,4 @@
       ↓
  IIS
       ↓
- Client Receives Response
+ Client Receives Response`
